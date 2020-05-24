@@ -1,0 +1,1 @@
+This is a demo of how firebase works for web. The form submits data to the firebase real-time database.
